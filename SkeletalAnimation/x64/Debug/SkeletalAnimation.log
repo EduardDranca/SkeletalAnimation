@@ -1,0 +1,23 @@
+﻿  Armature.cpp
+c:\users\eduard\source\repos\skeletalanimation\skeletalanimation\armature.cpp(318): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  Bone.cpp
+  BoneShape.cpp
+  Command.cpp
+  Editor.cpp
+  ExtrudeCommand.cpp
+  InputHandler.cpp
+c:\users\eduard\source\repos\skeletalanimation\skeletalanimation\inputhandler.cpp(51): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  main.cpp
+  MoveCommand.cpp
+  Node.cpp
+  MathUtils.cpp
+c:\users\eduard\source\repos\skeletalanimation\skeletalanimation\mathutils.cpp(50): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Subject.cpp
+  Observer.cpp
+  Vertex.cpp
+  Generating Code...
+  SkeletalAnimation.vcxproj -> C:\Users\Eduard\source\repos\SkeletalAnimation\x64\Debug\SkeletalAnimation.exe

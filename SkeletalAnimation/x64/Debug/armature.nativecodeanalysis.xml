@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\eduard\source\repos\skeletalanimation\skeletalanimation\</FILEPATH>
+      <FILENAME>armature.cpp</FILENAME>
+      <LINE>348</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Armature::mode' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Armature::{ctor}</FUNCTION>
+    <DECORATED>??0Armature@@QEAA@XZ</DECORATED>
+    <FUNCLINE>348</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
